@@ -1,0 +1,7 @@
+C:\Users\Peter\Desktop\MFF\Predmety\UmelaInteligence\Logistika\Logistika\Logistika\bin\Debug\Logistika.exe.config
+C:\Users\Peter\Desktop\MFF\Predmety\UmelaInteligence\Logistika\Logistika\Logistika\bin\Debug\Logistika.exe
+C:\Users\Peter\Desktop\MFF\Predmety\UmelaInteligence\Logistika\Logistika\Logistika\bin\Debug\Logistika.pdb
+C:\Users\Peter\Desktop\MFF\Predmety\UmelaInteligence\Logistika\Logistika\Logistika\obj\Debug\Logistika.exe
+C:\Users\Peter\Desktop\MFF\Predmety\UmelaInteligence\Logistika\Logistika\Logistika\obj\Debug\Logistika.pdb
+C:\Users\Peter\Desktop\MFF\Predmety\UmelaInteligence\Logistika\Logistika\Logistika\obj\Debug\Logistika.csprojAssemblyReference.cache
+C:\Users\Peter\Desktop\MFF\Predmety\UmelaInteligence\Logistika\Logistika\Logistika\obj\Debug\Logistika.csproj.CoreCompileInputs.cache

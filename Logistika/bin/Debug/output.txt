@@ -1,0 +1,12 @@
+drive 0 3
+load 0 1
+drive 0 1
+unload 0 1
+pickUp 0 1
+pickUp 0 0
+fly 0 2
+dropOff 0 0
+dropOff 0 1
+load 1 1
+drive 1 4
+unload 1 1
